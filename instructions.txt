@@ -1,10 +1,5 @@
-How to Run application
+give terraform_file  path to input_dir in main.py
 
-streamlit run app.py
+set output path to output_dir to store the azure terraform results in main.py
 
-It will ask you enter email  keep this as empty and enter
-
-Open Local url Link: example http://localhost:8502
-
-Upload a terraform file to convert and output will be display at same page
 
