@@ -1,0 +1,10 @@
+How to Run application
+
+streamlit run app.py
+
+It will ask you enter email  keep this as empty and enter
+
+Open Local url Link: example http://localhost:8502
+
+Upload a terraform file to convert and output will be display at same page
+
